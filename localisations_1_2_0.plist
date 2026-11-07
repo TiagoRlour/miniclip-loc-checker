@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>version</key>
+	<string>1.2.0</string>
+	<key>localisations</key>
+	<dict>
+		<key>7a794655-44e9-49d6-99c6-df936bec3fcc</key>
+		<dict>
+			<key>en-US</key>
+			<string>Play\nas Guest</string>
+			<key>fr</key>
+			<string>Jouer en\ntant qu'invité</string>
+			<key>it</key>
+			<string>Gioca\ncome ospite</string>
+			<key>de</key>
+			<string>Als Gast\nspielen</string>
+			<key>es</key>
+			<string>Jugar\ncomo invitado</string>
+			<key>pt-BR</key>
+			<string>Jogue\ncomo Visitante</string>
+			<key>ru</key>
+			<string>Играть\nкак гость</string>
+			<key>tk</key>
+			<string>Misafir\nolarak Oyna</string>
+		</dict>
+		<key>2b827952-8d1a-4c31-9283-8753d1fc51be</key>
+		<dict>
+			<key>en-US</key>
+			<string>Starting in %u...</string>
+			<key>fr</key>
+			<string>Commence dans % ...</string>
+			<key>it</key>
+			<string>Inizio tra %u...</string>
+			<key>de</key>
+			<string>Start in %u...</string>
+			<key>es</key>
+			<string>Empezando en %u...</string>
+			<key>pt-BR</key>
+			<string>Início em %u...</string>
+			<key>ru</key>
+			<string>До начала %u...</string>
+			<key>tk</key>
+			<string>Başlama: %u...</string>
+		</dict>
+		<key>d8225439-0a23-404c-857d-8cd37032a606</key>
+		<dict>
+			<key>en-US</key>
+			<string>Watch a short video\nand earn 15 coins.\nYou can watch as many videos\n as are available\nto earn more coins.</string>
+			<key>es</key>
+			<string>Disfruta con un vídeo corto\ny consigue 15 monedas.\nPuedes ver todos los\nvídeos disponibles\ny ganar más monedas.</string>
+			<key>pt-BR</key>
+			<string>Assista a um vídeo curto\ne ganhe 15 moedas.\nVocê pode assistir a quantos videos\n disponíveis quiser\npara ganhar mais moedas.</string>
+			<key>fr</key>
+			<string>Regarde une courte vidéo\net gagne 15 jetons.\nTu peux voir autant de vidéos\nqu'il y en a de disponible\npour gagner plein de jetons.</string>
+			<key>it</key>
+			<string>Guarda un breve video\ne ottieni 15 monete.\nPuoi guardare tutti i video\n mano a mano che sono disponibili\nper ottenere altre monete.</string>
+			<key>de</key>
+			<string>Sieh dir ein kurzes Video\nan und gewinne 15 Münzen.\nDu kannst dir so viele Videos ansehen,\nwie verfügbar sind,\num noch mehr Münzen zu holen.</string>
+			<key>ru</key>
+			<string>Просмотрите короткий ролик\nи получите 15 монет.\nВы можете просмотреть все\n доступные ролики,\nчтобы заработать еще монет.</string>
+			<key>tk</key>
+			<string>Kısa bir video seyret\nve 15 madeni para kazan.\nMadeni para kazanmak için\nmevcut videolardan \nistediğin kadar izle.</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

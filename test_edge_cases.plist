@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>version</key>
+	<string>1.2.2</string>
+	<key>localisations</key>
+	<dict>
+		<key>7a794655-44e9-49d6-99c6-df936bec3fcc</key>
+		<dict>
+			<key>en-US</key>
+			<string>Play\nas Guest</string>
+			<key>de</key>
+			<string>Als unregistrierter Gastspieler sofort ohne Konto anmelden und spielen</string>
+		</dict>
+		<key>missing-base-key-0000</key>
+		<dict>
+			<key>fr</key>
+			<string>Bonjour %@</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

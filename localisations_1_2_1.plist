@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>version</key>
+	<string>1.2.0</string>
+	<key>localisations</key>
+	<dict>
+		<key>2b827952-8d1a-4c31-9283-8753d1fc51be</key>
+		<dict>
+			<key>en-US</key>
+			<string>Starting in %u...</string>
+			<key>fr</key>
+			<string>Commence dans %u...</string>
+			<key>it</key>
+			<string></string>
+			<key>de</key>
+			<string>Start in %u...</string>
+			<key>pt-BR</key>
+			<string>Início em %u...</string>
+			<key>ru</key>
+			<string>До начала %...</string>
+			<key>tk</key>
+			<string>Başlama: %u...</string>
+			<key>jp</key>
+			<string>開始まで %u...</string>
+		</dict>
+		<key>d8225439-0a23-404c-857d-8cd37032a606</key>
+		<dict>
+			<key>en-US</key>
+			<string>Watch a short video\nand earn 15 coins.\nYou can watch as many videos\n as are available\nto earn more coins.</string>
+			<key>fr</key>
+			<string>Regarde une courte vidéo\net gagne 15 jetons.\nTu peux voir autant de vidéos\nqu'il y en a de disponible\npour gagner plein de jetons.</string>
+			<key>it</key>
+			<string>Guarda un breve video\ne ottieni 15 monete.\nPuoi guardare tutti i video\n mano a mano che sono disponibili\nper ottenere altre monete.</string>
+			<key>de</key>
+			<string>Sieh dir ein kurzes Video\nan und gewinne 15 Münzen.\nDu kannst dir so viele Videos ansehen,\nwie verfügbar sind,\num noch mehr Münzen zu holen.</string>
+			<key>pt-BR</key>
+			<string>Assista a um vídeo curto\ne ganhe 15 moedas.\nVocê pode assistir a quantos vídeos\n disponíveis quiser\npara ganhar mais moedas.</string>
+			<key>ru</key>
+			<string>Просмотрите короткий ролик\nи получите 15 монет.\nВы можете просмотреть все\n доступные ролики,\nчтобы заработать еще монет.</string>
+			<key>tk</key>
+			<string>Kısa bir video seyret\nve 15 madeni para kazan.\nMadeni para kazanmak için\nmevcut videolardan \nistediğin kadar izle.</string>
+			<key>jp</key>
+			<string>短い動画を見るだけで 15 コインゲット！視聴可能な動画を見てコインをもっと獲得しよう</string>
+		</dict>
+		<key>9bb069bc-a70c-45ce-875b-225f8ccef615</key>
+		<dict>
+			<key>en-US</key>
+			<string>For each ball potted in Rack 1 you get a 10 seconds bonus, and in Rack 2 you get 9 seconds bonus, and so on.\n\nPotting the Cue Ball will result in a 30 seconds penalty.\nWhen you are down to one ball you will receive a new Rack.\n\nWin 100 points for every ball potted (150 without hitting a cushion).\n\nFor every five consecutive pots your Score Multiplier goes up 0.5 to a maximum of 4.0. Potting the White Ball will decrease it by 0.5 to a minimum of 1.0.</string>
+			<key>fr</key>
+			<string>Pour chaque boule du Triangle 1 rentrée, tu gagnes un bonus de 10 secondes, puis 9 secondes pour le Triangle 2 et ainsi de suite.\n\nRentrer la boule blanche inflige une pénalité de 30 secondes.\nquand il ne reste plus qu'une boule, tu reçois un nouveau triangle.\n\nGagne 100 points par boule rentrée (150 sans frapper de bande).\n\nPour chaque série de 5 boules rentrées, ton multiplicateur augmente de 0,5 pour un maximum de 4. Rentrer la blanche fera descendre celui-ci de 0,5 pour un minimum de 1.</string>
+			<key>it</key>
+			<string>Per ogni palla del triangolo 1 mandata in buca otterrai un bonus di 10 secondi, per ogni palla del triangolo 2 otterrai 9 secondi di bonus e così via.\n\nMandare in buca la bianca comporta una penalità di 30 secondi.\nQuando ti mancherà una sola palla riceverai un nuovo triangolo.\n\nOttieni 100 punti per ogni palla mandata in buca (150 senza colpire la sponda).\n\nPer ogni cinque buche consecutive il tuo moltiplicatore di punteggio sale di 0,5 fino a un massimo di 4,0. Mandando in buca la palla bianca diminuirà di 0,5 fino a un massimo di 1,0.</string>
+			<key>de</key>
+			<string>Für jede eingelochte Kugel in Brett 1 erhältst du einen Bonus von 10 Sekunden, in Dreieck 2 einen Bonus von 9 Sekunden und so weiter.\n\nDas Einlochen des Spielballs wird mit einem Strafabzug von 30 Sekunden bestraft.\nWenn du nur noch eine einzige Kugel hast, erhältst du ein neues Brett.\n\nGewinne für jede eingelochte Kugel 100 Punkte (ohne Bandenspiel 150).\n\nFür je 5 hintereinander eingelochte Kugeln wird dein Punktemultiplikator bis zu einem Höchstwert von 4,0 um 0,5 erhöht. Beim Einlochen der weißen Kugel wird der Multiplikator bis zu einem Minimalwert von 1,0 um 0,5 reduziert.</string>
+			<key>pt-BR</key>
+			<string>A cada bola encaçapada do Triângulo 1 você ganha 10 segundos de bônus e do Triângulo 2 você ganha 9 segundos de bônus e assim por diante.\n\nEncaçapar a bola branca resultará em uma penalidade de 3 segundos.\nQuando você estiver com apenas uma bola, receberá um novo Triângulo.\n\nGanhe 100 pontos por cada bola encaçapada (150 sem bater nas bordas).\n\nA cada cinco encaçapadas consecutivas, seu Multiplicador de Pontos sobe em 0,5, até um máximo de 4. Encaçapar a bola branca diminui ele em 0,5 até um mínimo de 1.</string>
+			<key>ru</key>
+			<string>За каждый забитый в лузу шар из пирамиды 1 вы получаете бонус в 10 секунд, за шар из пирамиды 2 - бонус в 9 секунд и так далее.\n\nПопадание битка в лузу означает штраф в 30 секунд.\nКогда у вас останется один шар, вы получите новую пирамиду.\n\nЗа каждый забитый в лузу шар начисляется 100 очков (150, если шар не задел борт).\n\nЗа каждые 5 забитых подряд шаров ваш множитель счета возрастает на 0,5 (до 4,0). При попадании в лузу белого шара множитель уменьшается на 0,5 (до 1,0).</string>
+			<key>tk</key>
+			<string>İlk üçgen diziminden sonra cebe gönderilen her top için 10 saniye bonus kazanılır. İkinci üçgen diziminde 9 saniye bonus kazanırsın ve böyle devam eder.\n\nBeyaz topu cebe göndermen durumunda 30 saniye ceza alırsın.\nTek topa kaldığında yeni bir üçgen alacaksın.\n\nHer cebe gönderdiğin top için 100 puan kazan (bant kullanmazsan 150 puan).\n\nArka arkaya beş topu ceplere gönderdiğinde Puan Çarpanın 0,5 artacaktır ve çarpan maksimum 4'e kadar ulaşabilir. Beyaz topun cebe gönderilmesi durumunda çarpan 0,5 azalacaktır, ancak 1,0'in altına düşmeyecektir.</string>
+			<key>jp</key>
+			<string>ラック 1 ではボールをポケットする度に 10 秒、ラック 2 では 9 秒を獲得と続く\n\n手球をポケットした場合は 30 秒のペナルティとなる\n最後の 1 球になると次のラックへと進む\n\nボールをポケットする度に 100 ポイント (クッションへの接触無しで 150 ポイント) 獲得\n\n5 連続ポケットする度にコンボボーナスが 0.5 倍増加、最大で 4 倍増加する\n\n手球をポケットすると 0.5 倍減少 、最大で 4 倍減少する</string>
+		</dict>
+		<key>1981dc5a-a6b8-4fd3-be04-052522e08c86</key>
+		<dict>
+			<key>en-US</key>
+			<string>I just reached number 1 A:[in Country/in the world] B:[today/this week/all time]!</string>
+			<key>fr</key>
+			<string>Je suis le numéro 1 A:[du pays/du monde] B:[aujourd'hui/cette semaine/comme toujours] !</string>
+			<key>it</key>
+			<string>Ho appena raggiunto la posizione numero 1 B:[oggi/questa settimana/sempre!</string>
+			<key>de</key>
+			<string>Ich bin B:[heute/diese Woche/immer] gerade A:[landesweit/weltweit] auf Platz Nr. 1 gekommen!</string>
+			<key>ru</key>
+			<string>Я только что занял(а) 1-е место A:[в стране/в мире] в рейтинге B:[за сегодня/этой недели/всех времен]!</string>
+			<key>pt-BR</key>
+			<string>Cheguei no 1º lugar do A:[país/mundo] B:[de hoje/essa semana/de sempre]!</string>
+			<key>tk</key>
+			<string>B:[Bugün/Tüm zamanlarda] A:[ülke/dünya] 1. oldum</string>
+			<key>jp</key>
+			<string> A:[ 日本で/世界で] B:[今日の/今週の/歴代の]1 位になりました！</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
